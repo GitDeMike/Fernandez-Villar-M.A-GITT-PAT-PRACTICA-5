@@ -1,0 +1,25 @@
+.section_form {
+    width: 30%;
+    float: left;
+}
+
+.section_box {
+    width: 70%;
+    float: right;
+    
+}
+textarea{
+    resize: none;
+    font-size: xx-large;
+}
+select{
+    font-size: large;
+}
+input{
+    font-size: large;
+}
+.alerta {
+    width: 500px;
+    height: 500px;
+  }
+  
